@@ -20,4 +20,3 @@ Assignments and projects from a Programming Paradigms course, emphasizing clean,
    ```bash
    git clone https://github.com/gvaso27/Programming-Methodologies.git
    ```
-# Programming-Paradigms
