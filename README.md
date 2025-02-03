@@ -8,6 +8,8 @@ Assignments and projects from a Programming Paradigms course, emphasizing clean,
 
 - **C**
 
+- **C++**
+
 - **Python**
 
 - **Scheme**
