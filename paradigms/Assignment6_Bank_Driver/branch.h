@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 #include <semaphore.h>
-#include <bits/pthreadtypes.h>
+#include <pthread.h>
 
 typedef uint64_t BranchID;
 
